@@ -7,7 +7,7 @@ public class programm {
 		System.out.println("Ergebniss = " + s3);
 		for(int counter = 1; counter <= 10; counter++){
                 System.out.println("Ergebniss = " + counter); 
-                System.out.println("text");
+                System.out.println("neuer text");
 		}  
 			            
 		}                                          
